@@ -1,4 +1,4 @@
-# git-semana1-repositorio
+GNU  nano 5.8       doc1.txt Modified
 # git-semana1-repositorio
 # git-semana1-repositorio
 primera linea de texto del documento
